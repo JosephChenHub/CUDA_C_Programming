@@ -31,3 +31,6 @@ or
 where `gld_throughput` means global memory load throughput, `gst_througput` refers to global memory store throughput. 
 More metrics can be found via `nvprof --query-metrics`.
 
+## Demo
+performance comparions on calculating the histogram :
+![vis](performance_histogram.png)
